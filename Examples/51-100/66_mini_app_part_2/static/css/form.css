@@ -1,0 +1,25 @@
+#form_box {
+    border: 1px solid rgb(75, 122, 143);
+    border-radius: 10px;
+    margin: 80px auto;
+    width: 40%;
+    color: rgb(3, 115, 181);
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+}
+
+#form_box tr { 
+    height: 55px;
+} 
+
+#form_box tr th { 
+    text-align: right;
+}
+
+#form_box tr td input {
+    border: 1px solid rgb(50, 141, 222);
+    font-size: 22px;
+    padding: 5px 12px;
+    border-radius: 5px;
+    color: #555;
+} 

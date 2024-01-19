@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Tumhara Bazzar</h1>
+
+    <hr>
+
+    <form action="add.do">
+        <table>
+            <tr>
+                <td>
+                    <select name="products" multiple>
+                        <option value="0">Select</option>
+                        <optgroup label="Vegetables">
+                            <option value="Alu">Alu</option>
+                            <option value="Palak">Palak</option>
+                            <option value="Methi">Methi</option>
+                            <option value="Bhindi">Bhindi</option>
+                        </optgroup>
+                        
+                        <optgroup label="Fruits">    
+                            <option value="Seb">Seb</option>
+                            <option value="Kela">Kela</option>
+                            <option value="Anar">Anar</option>
+                            <option value="Angoor">Angoor</option>
+                        </optgroup>
+                        
+                        <optgroup label="Food">    
+                            <option value="Samosa">Samosa</option>
+                            <option value="Alubonda">Alubonda</option>
+                            <option value="Kachodi">Kachodi</option>
+                            <option value="Jalebi">Jalebi</option>
+                        </optgroup>
+                    </select>
+                </td>
+            </tr>
+        </table>
+
+        Quantity: <input type="number" name="qt">
+
+        <br><br>
+
+        <input type="submit" value="Add To Cart">
+
+        <br><br>
+
+        <a href="show.do">Show Cart</a>
+    </form>
+</body>
+</html>

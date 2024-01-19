@@ -1,0 +1,15 @@
+create database db212;
+
+use db212
+
+create table cities 
+(
+    city_id int auto_increment primary key,
+    name char(60) not null
+);
+
+insert into cities (name) 
+values 
+('Jabalpur'),('Jagdalpur'),('Jaipur'),('Rampur'),('Raipur');
+
+select * from cities;

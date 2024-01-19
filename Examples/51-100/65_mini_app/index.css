@@ -1,0 +1,14 @@
+#nav_links {
+    width: 40%;
+    border: 1px solid rgb(215, 76, 12);
+    border-radius: 10px;
+    margin: 30px auto;
+    text-align: center; 
+}
+
+#nav_links a {
+    text-decoration: none;
+    font-size: 22px;
+    color: #777;
+    margin-left: 20px;
+}

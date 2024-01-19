@@ -1,0 +1,49 @@
+#form_table {
+    width: 50%;
+    border: 1px solid #777;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin: 0px auto;
+}
+
+th, td {
+    /* border: 1px solid #777; */
+    /* border-collapse: collapse; */
+}
+
+caption {
+    background-color: rgb(215, 76, 12);
+    color: #fff;
+    font-size: 22px;
+    text-align: left;
+    padding: 7px 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+label {
+    color: rgb(215, 76, 12);
+    font-size: 22px;
+}
+
+.form_control {
+    border-radius: 5px;
+    border: 1px solid #777;
+    font-size: 22px;
+    padding: 7px 15px;
+}
+
+tr {
+    height: 55px;
+}
+
+#btn {
+    color: rgb(215, 76, 12);
+    font-size: 22px;
+    padding: 12px 35px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    border: 1px solid  rgb(215, 76, 12);
+
+}

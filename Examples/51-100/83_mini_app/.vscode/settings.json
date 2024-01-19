@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Tomcat 9.0\\lib\\servlet-api.jar",
+        "c:\\Tomcat 9.0\\lib\\commons-fileupload-1.5.jar",
+        "c:\\Tomcat 9.0\\lib\\jasypt-1.9.3.jar",
+        "c:\\Tomcat 9.0\\lib\\commons-io-2.13.0.jar",
+        "c:\\Tomcat 9.0\\lib\\activation.jar",
+        "c:\\Tomcat 9.0\\lib\\javax.mail.jar",
+        "c:\\Tomcat 9.0\\lib\\mysql-connector-j-8.1.0.jar",
+        "c:\\Tomcat 9.0\\lib\\javax.mail-1.6.2.jar"
+    ]
+}

@@ -1,0 +1,32 @@
+create database ecartdb;
+
+use ecartdb
+
+create table users 
+(
+    user_id int auto_increment primary key,
+    user_name char(40) not null,
+    email char(255) not null unique,
+    password char(15) not null 
+);
+
+create table products
+(
+    product_id int auto_increment primary key,
+    name char(30) not null
+);
+
+insert into products (name) values ('Laptop'), ('RAM'), ('HDD'), ('SSD'), ('Processor');
+
+create table seller_products 
+(
+    seller_product_id int auto_increment primary key,
+    product_id int not null,
+    user_id int not null,
+    quantity int not null,
+    price int not null,
+    constraint fk_sellrprod_prods foreign key (product_id) references products (product_id),
+    constraint fk_sellrprod_users foreign key (user_id) references users (user_id)
+);
+
+desc seller_products;

@@ -1,0 +1,17 @@
+create database ajax184db;
+
+use ajax184db
+
+create table students
+(
+    student_id int auto_increment primary key,
+    name char(40) not null,
+    college char(80) not null,
+    degree char(8) not null,
+    branch char(4) not null,
+    sem int not null
+);
+
+desc students;
+
+select * from students;

@@ -1,0 +1,98 @@
+Advanced Java Syllabus:
+
+1.	What is Client and Server 
+
+2.	Request Response and protocols
+
+
+3.	Uniform Resource Locator (URL)
+
+4.	Request Methods GET and POST
+
+5.	Tomcat Server Installation & Configuration
+
+6.	Server Start & Stop
+
+7.	Webapps Directory and App Organization
+
+8.	Index a Welcome Page
+
+9.	WEB-INF directory is Secure
+
+
+10.	Introduction to Servlet
+
+11.	Servlet API
+
+12.	First Servlet and web.xml Mapping
+
+13.	WebServlet Annotation 
+
+14.	Servlet Lifecycle & Implicit Objects
+
+15.	Multithreading & Request Handling
+
+16.	HttpServletRequest & HttpServletResponse
+
+17.	Headers & Parameters
+
+18.	ServletContext & ServletConfig
+
+19.	Context Parameters & Initial Parameters
+
+20.	RequestDispatcher & Forward Method 
+
+21.	Forward Vs. Redirect
+
+22.	Cookies
+
+23.	Session Handling
+
+24.	Attributes & Attribute Scopes
+
+25.	Java Server Pages (JSP)
+
+26.	JSP & Implicit Objects
+
+27.	JSP Translation & Work Directory
+
+28.	JSP Lifecycle
+
+29.	Model View Controller Architecture  
+
+30.	Expression Language (EL)
+
+31.	Jsp Standard Tag Library (JSTL)
+
+32.	Custom Tags
+
+33.	Filters
+
+34.	Listeners
+
+35.	War File & App Deployment
+
+36.	Request Handling Using Ajax
+
+37.	Project Development
+
+38.	Project Deployment
+
+39.	Email Sending
+
+40.	SMS Gateway Integration
+
+41.	Https over SSL
+
+42.	Google Captcha Integration
+
+43.	Google Map Integration
+
+44.	Third Party Login
+
+45.	App Deployment on AWS after your project completion. 
+
+
+
+
+#########

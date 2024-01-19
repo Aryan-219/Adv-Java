@@ -1,0 +1,13 @@
+.next1 {
+    border: 2px solid red;
+    color: rgb(228, 235, 12);
+    padding: 12px 24px;
+    background-color: rgb(218, 16, 16);
+}
+
+.next2 {
+    border: 2px solid green;
+    color: rgb(246, 251, 246);
+    padding: 12px 24px;
+    background-color: rgb(19, 104, 165);
+}

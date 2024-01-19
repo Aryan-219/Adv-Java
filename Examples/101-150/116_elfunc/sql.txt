@@ -1,0 +1,15 @@
+create database elfuncdb;
+
+use elfuncdb
+
+create table products 
+(
+    product_id int auto_increment primary key,
+    product_name char(60) not null,
+    product_quantity int not null,
+    product_price int not null
+);
+
+desc products;
+
+select * from products;

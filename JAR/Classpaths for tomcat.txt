@@ -1,0 +1,4 @@
+C:\Tomcat 9.0\lib\servlet-api.jar
+C:\Tomcat 9.0\lib\commons-fileupload-1.5.jar
+C:\Tomcat 9.0\lib\commons-io-2.13.0.jar
+C:\Tomcat 9.0\lib\jasypt-1.9.3.jar

@@ -1,0 +1,12 @@
+create database ecartdb;
+
+use ecartdb
+
+create table users 
+(
+    user_id int auto_increment primary key,
+    user_name char(40) not null,
+    email char(255) not null unique,
+    password char(15) not null 
+);
+

@@ -1,0 +1,21 @@
+<%@ page import="models.User" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Next One Page</h1>
+
+    <hr>
+
+    <a href="next2.jsp">Next Two Page</a> <br><br>
+
+    <% User user = new User("yamraj", 100); %>
+
+    <% session.setAttribute("yamlok", user); %>
+</body>
+</html>

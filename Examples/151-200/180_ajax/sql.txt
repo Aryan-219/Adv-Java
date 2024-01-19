@@ -1,0 +1,11 @@
+create database ajax179db;
+
+use ajax179db
+
+create table cities 
+(
+    city_id int auto_increment primary key,
+    name char(40) not null
+);
+
+insert into cities (name) values ('Jabalpur'),('Jaipur'),('Jagdalpur'),('Raipur'),('Kanpur'),('Nagpur');
