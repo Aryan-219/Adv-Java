@@ -3125,3 +3125,7 @@ org.argouml.model.IllegalModelElementConnectionException: Cannot make a java.lan
 2023-12-24 23:03:11,765 ERROR: Failed to load any profile - returning empty model (ProfileJava.java:346)
 2023-12-24 23:03:22,155  WARN: Profile '/org/argouml/model/mdr/profiles/default-uml14.xmi' not found (ProfileJava.java:417)
 2023-12-24 23:03:22,155 ERROR: Failed to load any profile - returning empty model (ProfileJava.java:346)
+2024-05-16 21:56:12,302  WARN: Profile '/org/argouml/model/mdr/profiles/default-uml14.xmi' not found (ProfileJava.java:417)
+2024-05-16 21:56:12,304 ERROR: Failed to load any profile - returning empty model (ProfileJava.java:346)
+2024-05-16 21:56:25,677  WARN: Profile '/org/argouml/model/mdr/profiles/default-uml14.xmi' not found (ProfileJava.java:417)
+2024-05-16 21:56:25,679 ERROR: Failed to load any profile - returning empty model (ProfileJava.java:346)
